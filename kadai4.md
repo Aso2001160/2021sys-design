@@ -1,5 +1,5 @@
 ```uml
-@start
+@startuml
 start
 if(weather=0)then(true)
 :快晴です;
