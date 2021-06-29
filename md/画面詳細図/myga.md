@@ -1,10 +1,10 @@
 ### 画面詳細図
 ## トップページ
 ### プロトタイプは以下のリンク先
-[プロトタイプ](https://www.figma.com/file/ShiLUM1rpaCOGG5ZgswTCE/Untitled?node-id=2%3A3)
+[プロトタイプ](https://www.figma.com/file/0vRBRSAXa1cN6c6JlbLsOO/Untitled?node-id=0%3A1)
 *****
 
-<img src="../img/toppage.png" width="500">
+<img src="../img/myp.png" width="500">
 
 *****
 
