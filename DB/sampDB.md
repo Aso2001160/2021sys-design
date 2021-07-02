@@ -39,7 +39,7 @@ m_category
 m_items
 |属性名|型|PK|NN|FK|DF|
 |-----|--|--|--|--|--|
-|item_code|int(11)|〇|〇|-|〇|
+|item_code|int(11)|〇|〇|-|0|
 |item_name|varchar(50)|-|〇|-|-|
 |price|int(11)|-|〇|-|-|
 |category_id|int(11)|-|〇|〇|-|
