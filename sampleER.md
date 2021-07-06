@@ -49,5 +49,6 @@ entity "カテゴリマスタ" as category<m_category><<M,MASTER_MARK_COLOR>>{
 customer|o-r-o{purchase
 purchase||-r-|{purchase_deta
 purchase_deta}|-d-||items
+items}o-l-||category
 @enduml
 ```
