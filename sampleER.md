@@ -12,3 +12,5 @@ mail
 del_flag
 reg_date
 }
+@enduml
+```
