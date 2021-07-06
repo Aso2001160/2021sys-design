@@ -45,5 +45,7 @@ entity "カテゴリマスタ" as category<m_category><<M,MASTER_MARK_COLOR>>{
   name
   reg_date
 }
+
+customer|o-r-o{purchase
 @enduml
 ```
