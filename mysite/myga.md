@@ -4,7 +4,7 @@
 [プロトタイプ](https://www.figma.com/file/0vRBRSAXa1cN6c6JlbLsOO/Untitled?node-id=0%3A1)
 *****
 
-<img src="./md/img/myp.png" width="500">
+<img src="../md/img/myp.png" width="500">
 
 *****
 
