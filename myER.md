@@ -39,17 +39,11 @@ entity "商品マスタ" as items<m_items><<M,MASTER_MARK_COLOR>>{
   del_flag
   reg_date
 }
-entity "カテゴリマスタ" as category<m_category><<M,MASTER_MARK_COLOR>>{
-  + category_id[PK]
-  --
-  name
-  reg_date
-}
+
 
 customer|o-r-o{purchase
 purchase||-r-|{purchase_deta
 purchase_deta}|-d-||items
-items}o-l-||category
 @enduml
 ```
 
