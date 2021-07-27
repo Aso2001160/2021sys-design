@@ -1,4 +1,4 @@
-### 画面詳細図
+### 画面詳細
 ## トップページ
 ### プロトタイプは以下のリンク先
 [プロトタイプ](https://www.figma.com/file/0vRBRSAXa1cN6c6JlbLsOO/Untitled?node-id=0%3A1)
