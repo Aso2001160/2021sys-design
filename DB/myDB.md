@@ -1,4 +1,9 @@
-### DB設計書
+
+# DB定義書
+## ER図
+[ER図はこちら](https://github.com/Aso2001160/2021sys-design/blob/main/sampleER.md"ER図はこちら")
+
+# DBテーブルカラム詳細一覧
 
 d_purchase
 |属性名|型|PK|NN|FK|AI|
